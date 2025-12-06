@@ -1,3 +1,6 @@
 [submodule "piranha"]
 	path = piranha
 	url = https://github.com/sartori-labs/piranha.git
+[submodule "MP-SPDZ"]
+	path = MP-SPDZ
+	url = https://github.com/sartori-labs/MP-SPDZ.git
