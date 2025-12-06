@@ -4,3 +4,6 @@
 [submodule "MP-SPDZ"]
 	path = MP-SPDZ
 	url = https://github.com/sartori-labs/MP-SPDZ.git
+[submodule "MOTION"]
+	path = MOTION
+	url = https://github.com/sartori-labs/MOTION.git
